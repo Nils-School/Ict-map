@@ -1,0 +1,9 @@
+body{
+	background-color: lightblue;
+
+}
+img.vloot1{border:2px solid #000000; margin:15px;float:left;}
+img.vloot2{border:2px solid #000000; margin:15px; float:right;}
+img.vloot3{border:2px solid #000000; margin:15px; float:left;}
+
+h1{font-size:1.5em;text-align:left;margin-bottom:0;margin-left:0;}
